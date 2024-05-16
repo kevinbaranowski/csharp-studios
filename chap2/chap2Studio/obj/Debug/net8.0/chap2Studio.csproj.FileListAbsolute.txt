@@ -1,0 +1,14 @@
+C:\Users\ritab\Desktop\LaunchCode_cs\studios\chap2\chap2studio\bin\Debug\net8.0\chap2Studio.exe
+C:\Users\ritab\Desktop\LaunchCode_cs\studios\chap2\chap2studio\bin\Debug\net8.0\chap2Studio.deps.json
+C:\Users\ritab\Desktop\LaunchCode_cs\studios\chap2\chap2studio\bin\Debug\net8.0\chap2Studio.runtimeconfig.json
+C:\Users\ritab\Desktop\LaunchCode_cs\studios\chap2\chap2studio\bin\Debug\net8.0\chap2Studio.dll
+C:\Users\ritab\Desktop\LaunchCode_cs\studios\chap2\chap2studio\bin\Debug\net8.0\chap2Studio.pdb
+C:\Users\ritab\Desktop\LaunchCode_cs\studios\chap2\chap2studio\obj\Debug\net8.0\chap2Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritab\Desktop\LaunchCode_cs\studios\chap2\chap2studio\obj\Debug\net8.0\chap2Studio.AssemblyInfoInputs.cache
+C:\Users\ritab\Desktop\LaunchCode_cs\studios\chap2\chap2studio\obj\Debug\net8.0\chap2Studio.AssemblyInfo.cs
+C:\Users\ritab\Desktop\LaunchCode_cs\studios\chap2\chap2studio\obj\Debug\net8.0\chap2Studio.csproj.CoreCompileInputs.cache
+C:\Users\ritab\Desktop\LaunchCode_cs\studios\chap2\chap2studio\obj\Debug\net8.0\chap2Studio.dll
+C:\Users\ritab\Desktop\LaunchCode_cs\studios\chap2\chap2studio\obj\Debug\net8.0\refint\chap2Studio.dll
+C:\Users\ritab\Desktop\LaunchCode_cs\studios\chap2\chap2studio\obj\Debug\net8.0\chap2Studio.pdb
+C:\Users\ritab\Desktop\LaunchCode_cs\studios\chap2\chap2studio\obj\Debug\net8.0\chap2Studio.genruntimeconfig.cache
+C:\Users\ritab\Desktop\LaunchCode_cs\studios\chap2\chap2studio\obj\Debug\net8.0\ref\chap2Studio.dll

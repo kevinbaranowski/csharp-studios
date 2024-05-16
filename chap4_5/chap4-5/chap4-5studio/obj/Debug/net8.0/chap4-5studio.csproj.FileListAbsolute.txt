@@ -1,0 +1,14 @@
+C:\Users\18474\Desktop\LaunchCode_cs\studios\chap4-5\chap4-5studio\bin\Debug\net8.0\chap4-5studio.exe
+C:\Users\18474\Desktop\LaunchCode_cs\studios\chap4-5\chap4-5studio\bin\Debug\net8.0\chap4-5studio.deps.json
+C:\Users\18474\Desktop\LaunchCode_cs\studios\chap4-5\chap4-5studio\bin\Debug\net8.0\chap4-5studio.runtimeconfig.json
+C:\Users\18474\Desktop\LaunchCode_cs\studios\chap4-5\chap4-5studio\bin\Debug\net8.0\chap4-5studio.dll
+C:\Users\18474\Desktop\LaunchCode_cs\studios\chap4-5\chap4-5studio\bin\Debug\net8.0\chap4-5studio.pdb
+C:\Users\18474\Desktop\LaunchCode_cs\studios\chap4-5\chap4-5studio\obj\Debug\net8.0\chap4-5studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18474\Desktop\LaunchCode_cs\studios\chap4-5\chap4-5studio\obj\Debug\net8.0\chap4-5studio.AssemblyInfoInputs.cache
+C:\Users\18474\Desktop\LaunchCode_cs\studios\chap4-5\chap4-5studio\obj\Debug\net8.0\chap4-5studio.AssemblyInfo.cs
+C:\Users\18474\Desktop\LaunchCode_cs\studios\chap4-5\chap4-5studio\obj\Debug\net8.0\chap4-5studio.csproj.CoreCompileInputs.cache
+C:\Users\18474\Desktop\LaunchCode_cs\studios\chap4-5\chap4-5studio\obj\Debug\net8.0\chap4-5studio.dll
+C:\Users\18474\Desktop\LaunchCode_cs\studios\chap4-5\chap4-5studio\obj\Debug\net8.0\refint\chap4-5studio.dll
+C:\Users\18474\Desktop\LaunchCode_cs\studios\chap4-5\chap4-5studio\obj\Debug\net8.0\chap4-5studio.pdb
+C:\Users\18474\Desktop\LaunchCode_cs\studios\chap4-5\chap4-5studio\obj\Debug\net8.0\chap4-5studio.genruntimeconfig.cache
+C:\Users\18474\Desktop\LaunchCode_cs\studios\chap4-5\chap4-5studio\obj\Debug\net8.0\ref\chap4-5studio.dll
